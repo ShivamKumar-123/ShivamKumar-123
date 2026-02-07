@@ -1,89 +1,129 @@
+<!-- HERO IMAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Shivam+Kumar;Full+Stack+Developer;Backend+Engineer+%7C+DRF+%7C+Node.js;I+build+real-world+applications" />
+  <img src="https://images.pexels.com/photos/5475752/pexels-photo-5475752.jpeg?auto=compress&cs=tinysrgb&w=1200" />
+</p>
+
+<h1 align="center">Hi, I'm Shivam Kumar 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer • Backend Engineer • API Specialist</strong><br/>
+  📍 Raipur, Chhattisgarh, India
 </p>
 
 <p align="center">
-  <a href="https://shivamresumenew.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  <a href="https://shivamresumenew.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/shivam-kumar-9bb044253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/shivam-kumar-9bb044253">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
   </a>
   <a href="mailto:shivam8954001460@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-🚀 **Full Stack Developer | Backend Engineer | Problem Solver**  
-📍 Raipur, Chhattisgarh, India  
+<p align="center">
+  <img src="https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
 
-I specialize in building **scalable backend systems**, **RESTful APIs**, and **modern web applications**.  
-My focus is on **clean architecture, performance, and real-world business solutions**.
+I am a **backend-focused Full Stack Developer** who builds **scalable web applications**, **RESTful APIs**, and **production-ready systems**.  
+I enjoy working on **real-world business problems**, clean architecture, and performance-driven solutions.
 
----
-
-## 🎯 What I Do
-
-✔ Design & develop REST APIs using **Django Rest Framework (DRF)**  
-✔ Build scalable backend systems with **Node.js & Express**  
-✔ Create modern UI using **React.js & Tailwind CSS**  
-✔ Process & automate data using **Python**  
-✔ Build ML projects using **image classification**  
-✔ Convert ideas into production-ready applications  
+- 🔭 Working at **Advance International Solar**
+- 🔗 API development using **Django Rest Framework (DRF)** & **Express**
+- 📊 Data automation & processing using Python
+- 🤖 Machine Learning (Image Classification)
+- ⚡ Strong focus on backend engineering
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 What I Specialize In
+
+<p align="center">
+  <img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
+
+✔ REST API design & development  
+✔ Authentication & authorization (JWT, RBAC)  
+✔ Backend architecture (DRF, Node.js)  
+✔ Database design & optimization  
+✔ Data processing pipelines  
+✔ Scalable & maintainable systems  
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+<p align="center">
+  <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
+
+- HTML, CSS, JavaScript  
+- React.js  
+- Tailwind CSS, Bootstrap  
+
+---
 
 ### 🧠 Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+<p align="center">
+  <img src="https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
+
+- Django  
+- **Django Rest Framework (DRF)**  
+- Node.js & Express.js  
+- Laravel  
+
+---
 
 ### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+<p align="center">
+  <img src="https://images.pexels.com/photos/5475758/pexels-photo-5475758.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
+
+- MongoDB  
+- MySQL  
+- SQLite  
 
 ---
 
-## 🧩 Architecture & Skills
+## 🏗️ Architecture & Skills
 
-- REST API design & authentication (JWT, sessions)
-- Role-based access control
-- MVC & Clean Architecture
-- Database design & optimization
-- Form handling & validation
-- API integration & deployment
+<p align="center">
+  <img src="https://images.pexels.com/photos/3862373/pexels-photo-3862373.jpeg?auto=compress&cs=tinysrgb&w=900"/>
+</p>
+
+- RESTful API architecture
+- MVC / MVT patterns
+- Clean Architecture principles
+- Secure form handling
+- API validation & error handling
+- Admin panels & dashboards
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Highlight Projects
 
 ### 🌞 Advance Solar (Company Project)
 - Full-stack renewable energy platform
-- Backend APIs, admin panel, form handling
-- Production-ready system
+- Backend APIs, admin panel, lead forms
+- Production deployment
 
 ### 📊 Advance International Solar Backend
 - Python + **Django/DRF**
-- Excel data cleaning, processing & automation
+- Excel data automation & cleaning
 - Structured datasets & reporting
 
 ### 🐶 Potato Leaf Disease Detection
-- Machine Learning image classification
+- ML image classification project
 - Python & Jupyter Notebook
 
 ---
@@ -91,8 +131,8 @@ My focus is on **clean architecture, performance, and real-world business soluti
 ## 📈 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKumar-123&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar-123&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKumar-123&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar-123&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -109,24 +149,15 @@ My focus is on **clean architecture, performance, and real-world business soluti
 
 ---
 
-## 🧭 Current Focus
+## 🔗 Contact & Links
 
-- Advanced DRF (permissions, throttling, optimization)
-- System design & scalable APIs
-- Backend performance improvements
-- Real-world production projects
-
----
-
-## 🤝 Let's Connect
-
-🌐 **Portfolio**  
+🌐 Portfolio  
 👉 https://shivamresumenew.netlify.app/
 
-💼 **LinkedIn**  
+💼 LinkedIn  
 👉 https://www.linkedin.com/in/shivam-kumar-9bb044253
 
-📧 **Email**  
+📧 Email  
 👉 shivam8954001460@gmail.com
 
 ---
@@ -135,8 +166,6 @@ My focus is on **clean architecture, performance, and real-world business soluti
   <img src="https://komarev.com/ghpvc/?username=ShivamKumar-123&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
-
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  ⭐ Thanks for visiting — let’s build something impactful!
 </p>
