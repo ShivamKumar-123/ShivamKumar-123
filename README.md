@@ -1,48 +1,90 @@
-# 👋 Hi, I'm Shivam Kumar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Shivam+Kumar;Full+Stack+Developer;Backend+Engineer+%7C+DRF+%7C+Node.js;I+build+real-world+applications" />
+</p>
 
-🚀 **Full Stack Developer** | 💻 **Backend Engineer** | 🌱 **Problem Solver**  
+<p align="center">
+  <a href="https://shivamresumenew.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-kumar-9bb044253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:shivam8954001460@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 👋 About Me
+
+🚀 **Full Stack Developer | Backend Engineer | Problem Solver**  
 📍 Raipur, Chhattisgarh, India  
 
-I build **scalable web applications**, **RESTful APIs**, and **production-ready systems** using modern technologies.  
-My primary focus is **backend development**, clean architecture, and performance optimization.
+I specialize in building **scalable backend systems**, **RESTful APIs**, and **modern web applications**.  
+My focus is on **clean architecture, performance, and real-world business solutions**.
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 What I Do
 
-- 🔭 Working at **Advance International Solar**
-- 💼 Full Stack Developer with strong backend expertise
-- 🔗 REST API development using **Django Rest Framework (DRF)** & **Express**
-- 📊 Data processing, automation & backend services using Python
-- 🤖 Built Machine Learning projects (Image Classification)
-- ⚡ Passionate about building real-world applications
+✔ Design & develop REST APIs using **Django Rest Framework (DRF)**  
+✔ Build scalable backend systems with **Node.js & Express**  
+✔ Create modern UI using **React.js & Tailwind CSS**  
+✔ Process & automate data using **Python**  
+✔ Build ML projects using **image classification**  
+✔ Convert ideas into production-ready applications  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 ### 💻 Frontend
-- HTML, CSS, JavaScript  
-- React.js  
-- Tailwind CSS, Bootstrap  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ### 🧠 Backend
-- Django  
-- **Django Rest Framework (DRF)**  
-- Node.js, Express.js  
-- Laravel  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 
-### 🗄️ Databases
-- MongoDB, MySQL, SQLite  
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-### 🐍 Languages
-- JavaScript, Python, PHP  
+---
 
-### ⚙️ Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Netlify  
+## 🧩 Architecture & Skills
+
+- REST API design & authentication (JWT, sessions)
+- Role-based access control
+- MVC & Clean Architecture
+- Database design & optimization
+- Form handling & validation
+- API integration & deployment
+
+---
+
+## 🚀 Featured Work
+
+### 🌞 Advance Solar (Company Project)
+- Full-stack renewable energy platform
+- Backend APIs, admin panel, form handling
+- Production-ready system
+
+### 📊 Advance International Solar Backend
+- Python + **Django/DRF**
+- Excel data cleaning, processing & automation
+- Structured datasets & reporting
+
+### 🐶 Potato Leaf Disease Detection
+- Machine Learning image classification
+- Python & Jupyter Notebook
 
 ---
 
@@ -59,7 +101,7 @@ My primary focus is **backend development**, clean architecture, and performance
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShivamKumar-123&theme=onedark&margin-w=10"/>
@@ -67,42 +109,27 @@ My primary focus is **backend development**, clean architecture, and performance
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 Current Focus
 
-- 🌞 **Advance Solar (Company Project)**  
-  Full-stack renewable energy platform with backend APIs, admin panel, and form handling.
-
-- 📊 **Advance International Solar Backend**  
-  Python + **Django/DRF** backend for Excel data processing, cleaning, and structured datasets.
-
-- 🔗 **REST API Projects**  
-  Authentication, CRUD operations, validation, and role-based access APIs.
-
-- 🐶 **Potato Leaf Disease Detection**  
-  Machine learning project using image classification.
-
-- 🐦 **Tweet Website**  
-  Tweet-style web app with authentication and CRUD features.
-
-- 🏔️ **Meghalaya Tourism Website**  
-  Tourism platform showcasing places, festivals, and regions of Northeast India.
+- Advanced DRF (permissions, throttling, optimization)
+- System design & scalable APIs
+- Backend performance improvements
+- Real-world production projects
 
 ---
 
-## 🔗 Connect With Me
+## 🤝 Let's Connect
 
-- 🌐 **Portfolio / Resume**  
-  👉 https://shivamresumenew.netlify.app/
+🌐 **Portfolio**  
+👉 https://shivamresumenew.netlify.app/
 
-- 💼 **LinkedIn**  
-  👉 https://www.linkedin.com/in/shivam-kumar-9bb044253
+💼 **LinkedIn**  
+👉 https://www.linkedin.com/in/shivam-kumar-9bb044253
 
-- 📧 **Email**  
-  👉 shivam8954001460@gmail.com
+📧 **Email**  
+👉 shivam8954001460@gmail.com
 
 ---
-
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivamKumar-123&label=Profile%20Views&color=blue&style=flat"/>
@@ -110,4 +137,6 @@ My primary focus is **backend development**, clean architecture, and performance
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
