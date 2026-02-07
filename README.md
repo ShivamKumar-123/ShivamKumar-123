@@ -1,87 +1,73 @@
 # 👋 Hi, I'm Shivam Kumar
 
-🚀 **Full Stack Developer** | 💻 **Backend Enthusiast** | 🌱 **Problem Solver**  
+🚀 **Full Stack Developer** | 💻 **Backend Engineer** | 🌱 **Problem Solver**  
 📍 Raipur, Chhattisgarh, India  
 
-I’m a passionate Full Stack Developer with hands-on experience in building **scalable web applications**, **RESTful APIs**, and **real-world business solutions**. I enjoy turning ideas into functional products using modern technologies and clean architecture.
+I build **scalable web applications**, **RESTful APIs**, and **real-world products** using modern technologies.  
+Strong focus on **backend systems, clean architecture, and performance**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working at **Advance International Solar**
-- 💼 Experience in **React, Django, Django Rest Framework (DRF), Node.js, Laravel, Express**
-- 📊 Strong background in **backend development & data processing**
-- 🔗 Skilled in building **RESTful APIs using DRF & Express**
-- 🤖 Built **machine learning projects** using Python & image classification
-- 📚 Always learning new technologies and improving problem-solving skills
-- ⚡ Love building real-world projects, not just tutorials
+- 🔭 Working at **Advance International Solar**
+- 🧠 Backend-focused Full Stack Developer
+- 🔗 REST API development using **Django Rest Framework (DRF)** & **Express**
+- 📊 Data processing & automation with Python
+- 🤖 Machine Learning projects (Image Classification)
+- ⚡ Love building production-ready applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
-- Bootstrap
+### Frontend
+- HTML | CSS | JavaScript  
+- React.js | Tailwind CSS | Bootstrap  
 
-### 🧠 Backend
-- Django
-- **Django Rest Framework (DRF)**
-- Node.js
-- Express.js
-- Laravel
+### Backend
+- Django  
+- **Django Rest Framework (DRF)**  
+- Node.js | Express.js  
+- Laravel  
 
-### 🗄️ Databases
-- MongoDB
-- MySQL
-- SQLite
+### Databases
+- MongoDB | MySQL | SQLite  
 
-### 🐍 Programming Languages
-- JavaScript
-- Python
-- PHP
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Netlify
+### Languages
+- JavaScript | Python | PHP  
 
 ---
 
-## 🚀 Projects Highlights
+## 📈 GitHub Stats (Live)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamKumar-123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumar-123&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShivamKumar-123&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShivamKumar-123&theme=onedark&margin-w=10)
+
+---
+
+## 🚀 Featured Projects
 
 - 🌞 **Advance Solar (Company Project)**  
-  Full-stack renewable energy website with backend APIs, admin panel, and form handling.
+  Full-stack renewable energy platform with backend APIs & admin panel
 
 - 📊 **Advance International Solar Backend**  
-  Backend system using **Python & Django/DRF** for Excel data cleaning, processing, and structured datasets.
+  Python + **Django/DRF** backend for Excel data processing & structured datasets
 
-- 🔗 **REST API Projects (DRF & Express)**  
-  Authentication, CRUD operations, validation, and role-based access APIs.
+- 🔗 **REST API Projects**  
+  Authentication, CRUD, validation, and role-based access
 
 - 🐶 **Potato Leaf Disease Detection**  
-  Machine learning project using image classification to detect plant diseases.
-
-- 🐦 **Tweet Website**  
-  Tweet-style web app with authentication and CRUD functionality.
-
-- 🏔️ **Meghalaya Tourism Website**  
-  Tourism website showcasing places, festivals, and regions of Northeast India.
-
-- 📰 **Patrika Website**  
-  Django-based article platform with PDF viewing and downloads.
-
----
-
-## 📈 GitHub Activity
-
-- 📦 Multiple public & private repositories
-- ⭐ Real-world production & learning projects
-- 🔄 Actively maintaining and improving backend & frontend projects
+  ML-based image classification project
 
 ---
 
@@ -98,13 +84,10 @@ I’m a passionate Full Stack Developer with hands-on experience in building **s
 
 ---
 
-## 🤝 Let's Connect
+## 👀 Profile Views
 
-I’m open to:
-- 💼 Full-time / Internship opportunities
-- 🤝 Collaborations
-- 🚀 Open-source contributions
-- 💡 Innovative project ideas
+![Profile Views](https://komarev.com/ghpvc/?username=ShivamKumar-123&color=blue)
 
-Feel free to connect or drop a message.  
-**Let’s build something awesome together! 😄**
+---
+
+⭐ *If you like my work, consider starring my repositories!*
